@@ -1,4 +1,4 @@
-# VisualOdometry_BasedOnSURF
+## VisualOdometry_BasedOnSURF
 
 %% Name：Michael Beechan
 
@@ -13,6 +13,14 @@
 %% Bootstrapping estimating camera trajectory using global bundle adjustment  
 
 %% Estimating remaining camera trajectory using windowed bundle adjustment
+
+# Detect SURF Feature：
+
+https://blog.csdn.net/u011344545/article/details/84978195
+
+# Visual Odometry about SURF:
+
+https://blog.csdn.net/u011344545/article/details/84993264
 
 # Reference
 
